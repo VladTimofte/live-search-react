@@ -1,0 +1,14 @@
+/* src/App.css */
+.App {text-align: center;}
+input {
+  width: 50%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+li {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
